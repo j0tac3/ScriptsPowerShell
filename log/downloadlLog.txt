@@ -1,0 +1,6 @@
+Time taken: 2 second(s)
+Time taken: 9 second(s)
+Time taken: 0 second(s)
+Time taken: 19 second(s)
+Time taken: 24 second(s)
+Time taken: 2 second(s)
